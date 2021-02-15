@@ -1,5 +1,5 @@
 # Discord Music Bot
-Made by Misspoken འҽʂ#6666
+Made by Misspoken#1122
 
 ## Steps To Do
 
